@@ -1,4 +1,4 @@
-# 💫 About Me: <h1>My name is Aditya bhoir,A BSc.I.T. graduate from India</h1>
+# 💫 About Me: <h1>My name is Aditya bhoir, A BSc.I.T. graduate from India</h1>
 🌱 I’m currently learning Data Science<br><br>💬 Ask me about Python, JavaScript, HTML and CSS<br><br>📫 How to reach me adityabhoir9779@gmail.com
 
 
